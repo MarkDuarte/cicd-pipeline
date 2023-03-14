@@ -1,3 +1,3 @@
 # CICD For Real
 
-Teste
+Rodar os comandos em CD
